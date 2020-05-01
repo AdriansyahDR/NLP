@@ -1,0 +1,109 @@
+<kalimat id=1>
+Saya	PRP
+belum	NEG
+tahu	VB
+siapa	SC
+yang	SC
+akan	MD
+menggantikan	VB
+saya	PRP
+</kalimat>
+<kalimat id=2>
+Monyet	NN
+besar	JJ
+akan	MD
+dikerahkan	VB
+di	IN
+dua	CD
+stadion	NN
+</kalimat>
+<kalimat id=3>
+Roekman	NNP
+mengatakan	VB
+pesawat	NN
+tersebut	PR
+akan	MD
+disewakan	VB
+</kalimat>
+<kalimat id=4>
+pemerintah	NN
+juga	RB
+mencatat	VB
+total	NN
+belanja	NN
+kementerian	NN
+dan	CC
+lembaga pemerintah	NN
+setiap	CD
+tahun	NN
+</kalimat>
+<kalimat id=5>
+Walaupun	SC
+kemarin	NN
+nilai tukar	NN
+mata	NN
+uang	NN
+Thailand	NNP
+sempat	MD
+menurun	VB
+</kalimat>
+<kalimat id=6>
+Sri	NNP
+Mulyani	NNP
+mengakui	VB
+setidaknya	RB
+ada	VB
+tiga	CD
+faktor	NN
+yang	SC
+memberi	VB
+risiko	NN
+terhadap	IN
+proyeksi	NN
+ekonomi	NN
+2007	CD
+dan	CC
+2008	CD
+</kalimat>
+<kalimat id=7>
+Realisasi	NN
+terhadap	IN
+rencana	NN
+tersebut	PR
+akan	MD
+dilakukan	VB
+secara	IN
+bertahap	VB
+</kalimat>
+<kalimat id=8>
+Sehingga	SC
+yang	SC
+dilakukan	VB
+adalah	VB
+memblokir	VB
+kegiatan	NN
+kepabeanan	NN
+</kalimat>
+<kalimat id=9>
+Peningkatan	NN
+laba	NN
+ini	PR
+ditunjang	VB
+oleh	IN
+adanya	NN
+perkiraan	NN
+penurunan	NN
+biaya	NN
+operasional	JJ
+pada	IN
+2007	CD
+</kalimat>
+<kalimat id=10>
+Diskusi	NN
+tersebut	PR
+sedang	MD
+berjalan	VB
+pada	IN
+saat	NN
+ini	PR
+</kalimat>
